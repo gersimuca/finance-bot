@@ -1,0 +1,7 @@
+pandas
+streamlit
+imapclient
+pyzmail36
+python-dotenv
+watchdog
+plotly
